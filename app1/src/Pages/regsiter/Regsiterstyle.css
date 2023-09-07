@@ -1,0 +1,108 @@
+.reg{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #5492c5;
+    height: 100vh;
+
+ 
+}
+.regform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.regform h3{
+    color: white;
+    margin-top: 40px;
+}
+.regform form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.regform form .regrow{
+    margin-right: 7px;
+    
+
+}
+.regform form .regrow label{
+    display: block;
+    color: white;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+.regform form .regrow input {
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+}
+.regform form .btn {
+display: flex;
+align-self: center;
+margin-top: 15px;
+}
+.regform form .btn button{
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    background-color:#fff;
+    border: none;
+    outline: none;
+    padding: 3px;
+    font-size: 14px;
+    transition: all ease 0.3s ;
+    color :#5492c5;
+    
+}
+.regform form .btn button:hover{
+    background-color: #000000;
+    color: white;
+}
+.success{
+    color: green;
+
+}
+.error{
+    color: red;
+}
+.message{
+    display: flex;
+    align-self: center;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.regcontainer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.reg_details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+    padding: 3px;
+    background-color: white;
+
+}
+
+.reg_details .loginicons {
+    font-size: 18px;
+}
+
+.reg_details input {
+    border: none;
+    outline: none;
+    margin-left: 3px;
+
+}
+
+.reg_details input[placeholder] {
+    font-size: 12px;
+}

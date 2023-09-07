@@ -1,0 +1,120 @@
+.productcontainer{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+.Product{
+    display: grid;
+   grid-template-columns: repeat(4,0.5fr);
+  
+   gap: 20px;    
+   padding: 20px;
+   
+
+}
+.ProductImg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ProductImg a {
+  display: flex;
+ 
+  justify-content: center;
+}
+.ProductImg img{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+
+ 
+}
+.ProductDetails{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000; 
+    background-color: white;
+
+    
+    
+    align-items: self-start;
+    text-align: left;
+    padding:  15px;
+
+
+}
+.ProductName,.ProductDesc{
+display: flex;
+margin-bottom: 5px;
+align-items: center;
+text-align: left;
+margin-top: 20px;
+}
+.ProductPrice{
+  
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+
+/* Set the height of the carousel */
+#carouselExample {
+    height: 400px;
+  }
+  
+  /* Style the carousel controls */
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 5%;
+    font-size: 2rem;
+  }
+  
+  /* Style the carousel indicators */
+  .carousel-indicators li {
+    background-color: #cccccc;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    margin: 0 4px;
+  }
+  
+  .carousel-indicators .active {
+    background-color: #555555;
+  }
+  
+  /* Style the carousel item */
+  .carousel-item {
+    text-align: center;
+    background-color: #f8f8f8;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .carousel-item p {
+    font-size: 2rem;
+    color: #333333;
+  }
+  
+.cartineachproduct button .carticonadd{
+  cursor: pointer;
+
+ 
+}
+.cartineachproduct button {
+  cursor: pointer;
+  color: #333333;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+  

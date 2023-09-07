@@ -1,0 +1,41 @@
+.siebar{
+    padding: 20px;
+    background-color: #5492c5;
+    width: 250px;
+    color: black;
+    height: auto;
+   
+  
+}
+.Adminname{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    color: white;
+}
+.listitem ul  {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.listitem ul li {
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    width: 150px;   
+}
+.listitem ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 5px;
+
+  
+}
+.Adminname{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,89 @@
+.addproductcontainer{
+    background-color: #5492c5;
+    height: 100vh;
+    padding: 40px;
+    width: 100%;
+    color: white;
+}
+.addproducttitle{
+    display: flex;
+    border: 1px solid white;
+    width: fit-content;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+.addproducttitle h3 {
+    margin-right: 7px;
+}
+.addprod{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.addprod form{
+    display: flex;
+    flex-direction: column;
+}
+.addproductrow{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-bottom: 20px;
+    
+}
+
+.addproductrow label {
+    display: block;
+}
+.addproductrow input {
+    width: 300px;
+    height: 30px;
+    border: none;
+}
+.addproductrow select{
+    width: 300px;
+    height: 30px;
+    border: none;
+    margin-top: 5px;
+}
+.addproductrow input {
+    padding: 10px;
+}
+.addproductrow input[type='file']{
+    font-size: 16px;
+    margin-bottom: 15px;
+    height: 40px;
+}
+.addproductrow label{
+    margin-bottom: 7px;
+}
+.addproductbtn{
+    display: flex;
+    align-self: center;
+    align-items: center;
+    margin-top: 30px;
+
+}
+.addproductbtn button {
+    background-color:red;
+    color: white;
+    padding: 10px;
+    width: 300px;
+    height: 40px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    cursor: pointer;
+    margin-top: 20px;
+
+}
+.imagecontainer img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}

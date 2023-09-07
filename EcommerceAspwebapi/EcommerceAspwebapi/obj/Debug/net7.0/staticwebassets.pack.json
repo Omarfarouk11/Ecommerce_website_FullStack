@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\009b0ffa-a158-4f35-9023-78af77e64f10_furniture.png",
+      "PackagePath": "staticwebassets\\images\\009b0ffa-a158-4f35-9023-78af77e64f10_furniture.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\03d1fd1f-3196-4192-bb5b-2c1287f410e2_camera.png",
+      "PackagePath": "staticwebassets\\images\\03d1fd1f-3196-4192-bb5b-2c1287f410e2_camera.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\04729479-8890-4c07-80ab-8188bf6db992_baby.png",
+      "PackagePath": "staticwebassets\\images\\04729479-8890-4c07-80ab-8188bf6db992_baby.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\06cf69a2-cdbe-4bd0-ac0a-718b024ac809_bath.png",
+      "PackagePath": "staticwebassets\\images\\06cf69a2-cdbe-4bd0-ac0a-718b024ac809_bath.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\0b1e50e3-76b7-4649-a59f-c2a2126118ab_Prod12.jpg",
+      "PackagePath": "staticwebassets\\images\\0b1e50e3-76b7-4649-a59f-c2a2126118ab_Prod12.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\12c9a436-df26-4178-8b27-04a13d08ee46_p10.jpg",
+      "PackagePath": "staticwebassets\\images\\12c9a436-df26-4178-8b27-04a13d08ee46_p10.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\145b674e-4950-47ed-bebe-578f5e975d24_p2.jpg",
+      "PackagePath": "staticwebassets\\images\\145b674e-4950-47ed-bebe-578f5e975d24_p2.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\157133dd-5444-4ddf-af6e-6ccf3b5e7a0c_cap.jpg",
+      "PackagePath": "staticwebassets\\images\\157133dd-5444-4ddf-af6e-6ccf3b5e7a0c_cap.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\170ecffb-8a09-4e98-9068-ee92b815a881_health.png",
+      "PackagePath": "staticwebassets\\images\\170ecffb-8a09-4e98-9068-ee92b815a881_health.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\17f9b3c5-0c55-46c2-9427-7902f5b4d2ad_beauty.png",
+      "PackagePath": "staticwebassets\\images\\17f9b3c5-0c55-46c2-9427-7902f5b4d2ad_beauty.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\1d553398-7913-4b5a-99ca-fb59b5c41b4e_BVB.png",
+      "PackagePath": "staticwebassets\\images\\1d553398-7913-4b5a-99ca-fb59b5c41b4e_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\21e84a2e-0e93-42b5-8042-3c01375f4831_p4.jpg",
+      "PackagePath": "staticwebassets\\images\\21e84a2e-0e93-42b5-8042-3c01375f4831_p4.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\2333132c-50f5-4201-88b2-95257e1ffab5_p9.jpg",
+      "PackagePath": "staticwebassets\\images\\2333132c-50f5-4201-88b2-95257e1ffab5_p9.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\2b8c3aea-b5e6-46c8-af5e-746ab1fd7c2e_skincare.png",
+      "PackagePath": "staticwebassets\\images\\2b8c3aea-b5e6-46c8-af5e-746ab1fd7c2e_skincare.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\2cabd3e1-5a12-4c84-a04b-97184b56e2b9_fragrances.png",
+      "PackagePath": "staticwebassets\\images\\2cabd3e1-5a12-4c84-a04b-97184b56e2b9_fragrances.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\2d90c80a-3515-44f7-b60f-11ee0a48a1c4_beauty.png",
+      "PackagePath": "staticwebassets\\images\\2d90c80a-3515-44f7-b60f-11ee0a48a1c4_beauty.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\304e82bb-4e6a-44c5-888a-b9d5a0f57059_BVB.png",
+      "PackagePath": "staticwebassets\\images\\304e82bb-4e6a-44c5-888a-b9d5a0f57059_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\3167fb54-a770-4c2b-9f84-768863b25d4c_p7.jpg",
+      "PackagePath": "staticwebassets\\images\\3167fb54-a770-4c2b-9f84-768863b25d4c_p7.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\3323db7b-511d-406d-b4f1-2c5993cd3d34_sports.png",
+      "PackagePath": "staticwebassets\\images\\3323db7b-511d-406d-b4f1-2c5993cd3d34_sports.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\35b4795d-7b7f-473c-b7ed-60ed63769ad7_diapers.png",
+      "PackagePath": "staticwebassets\\images\\35b4795d-7b7f-473c-b7ed-60ed63769ad7_diapers.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\37e5cdaa-7bd7-40d1-b74a-efded7dcf49d_healthcare.png",
+      "PackagePath": "staticwebassets\\images\\37e5cdaa-7bd7-40d1-b74a-efded7dcf49d_healthcare.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\3c39c5de-c026-44c6-a08d-067c2cc7b131_appliances.png",
+      "PackagePath": "staticwebassets\\images\\3c39c5de-c026-44c6-a08d-067c2cc7b131_appliances.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\3d63e432-c6a1-480e-836c-9e68525eb4f1_p6.jpg",
+      "PackagePath": "staticwebassets\\images\\3d63e432-c6a1-480e-836c-9e68525eb4f1_p6.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\3e877b7c-4d58-401e-8852-383b292b12a5_Mobiles.png",
+      "PackagePath": "staticwebassets\\images\\3e877b7c-4d58-401e-8852-383b292b12a5_Mobiles.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\481428fe-060e-402a-9ec0-57640af6d423_summer.png",
+      "PackagePath": "staticwebassets\\images\\481428fe-060e-402a-9ec0-57640af6d423_summer.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\4c7acf4a-3175-4ad6-b34b-2fb5909271aa_BVB.png",
+      "PackagePath": "staticwebassets\\images\\4c7acf4a-3175-4ad6-b34b-2fb5909271aa_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\4ca338c7-0724-4faf-bd96-31e09f398570_BVB.png",
+      "PackagePath": "staticwebassets\\images\\4ca338c7-0724-4faf-bd96-31e09f398570_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\4eb07c06-f40f-40e1-ad99-2e642a7e9683_BVB.png",
+      "PackagePath": "staticwebassets\\images\\4eb07c06-f40f-40e1-ad99-2e642a7e9683_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\4ee7745d-2ca1-427a-8e77-f60652f92ec5_cap.jpg",
+      "PackagePath": "staticwebassets\\images\\4ee7745d-2ca1-427a-8e77-f60652f92ec5_cap.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\5173d4c2-1b41-4f5d-a6e0-19cfbb60cfab_BVB.png",
+      "PackagePath": "staticwebassets\\images\\5173d4c2-1b41-4f5d-a6e0-19cfbb60cfab_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\56dcf428-a664-4647-9526-e9556b160711_p8.jpg",
+      "PackagePath": "staticwebassets\\images\\56dcf428-a664-4647-9526-e9556b160711_p8.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\58c8885e-672f-40ae-8b9f-6c18e713fe12_Prod13.jpg",
+      "PackagePath": "staticwebassets\\images\\58c8885e-672f-40ae-8b9f-6c18e713fe12_Prod13.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\58d5df80-1f5a-4fd4-88c9-c0dcab32638e_Prod5.jpg",
+      "PackagePath": "staticwebassets\\images\\58d5df80-1f5a-4fd4-88c9-c0dcab32638e_Prod5.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\5ac28ac6-2dc0-4299-81b5-57c5f5c07b20_hometools.png",
+      "PackagePath": "staticwebassets\\images\\5ac28ac6-2dc0-4299-81b5-57c5f5c07b20_hometools.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\5e89657a-164b-4bb2-8e0f-e694173ea37b_electronics2.png",
+      "PackagePath": "staticwebassets\\images\\5e89657a-164b-4bb2-8e0f-e694173ea37b_electronics2.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\5f9dfedb-a42e-4b47-a76e-3a6770ede6c7_sports.png",
+      "PackagePath": "staticwebassets\\images\\5f9dfedb-a42e-4b47-a76e-3a6770ede6c7_sports.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\609c0c64-7eef-4c83-a0d4-55df1d6be660_p11.jpg",
+      "PackagePath": "staticwebassets\\images\\609c0c64-7eef-4c83-a0d4-55df1d6be660_p11.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\61ff2ef6-a4b2-4403-a61a-72027b92386a_hometools.png",
+      "PackagePath": "staticwebassets\\images\\61ff2ef6-a4b2-4403-a61a-72027b92386a_hometools.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\64de6b93-cab7-430c-afd1-25b3544e838e_clothesagain.png",
+      "PackagePath": "staticwebassets\\images\\64de6b93-cab7-430c-afd1-25b3544e838e_clothesagain.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\68c5a03f-c2a2-44df-8e64-ff59aacc0695_8e1275f6-5923-4acb-b3df-cb51d685bf17_toyes.png",
+      "PackagePath": "staticwebassets\\images\\68c5a03f-c2a2-44df-8e64-ff59aacc0695_8e1275f6-5923-4acb-b3df-cb51d685bf17_toyes.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\6f6ab52b-50fd-4226-8d47-3687dd37396b_supermarket.png",
+      "PackagePath": "staticwebassets\\images\\6f6ab52b-50fd-4226-8d47-3687dd37396b_supermarket.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\72fd8958-761f-47fe-a883-64ee7a280a95_BVB.png",
+      "PackagePath": "staticwebassets\\images\\72fd8958-761f-47fe-a883-64ee7a280a95_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\7304d38d-58a5-4307-8ca0-c0b17339a1b4_SportingGoods.jpg",
+      "PackagePath": "staticwebassets\\images\\7304d38d-58a5-4307-8ca0-c0b17339a1b4_SportingGoods.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\73abf289-f224-4172-b3f7-615a4d75ae0f_automative.png",
+      "PackagePath": "staticwebassets\\images\\73abf289-f224-4172-b3f7-615a4d75ae0f_automative.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\75ed80cd-9bdd-46a3-a7a7-dfaa2c965f4a_p4.jpg",
+      "PackagePath": "staticwebassets\\images\\75ed80cd-9bdd-46a3-a7a7-dfaa2c965f4a_p4.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\793facf0-9628-4863-8d5d-654610e50a6c_Prod3.jpg",
+      "PackagePath": "staticwebassets\\images\\793facf0-9628-4863-8d5d-654610e50a6c_Prod3.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\7a510763-116a-4e13-8349-f2a5c4846d75_Prod11.jpg",
+      "PackagePath": "staticwebassets\\images\\7a510763-116a-4e13-8349-f2a5c4846d75_Prod11.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\7ac960b1-db70-462c-bb39-a330e3dfaff3_BVB.png",
+      "PackagePath": "staticwebassets\\images\\7ac960b1-db70-462c-bb39-a330e3dfaff3_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\7ada676b-3d91-4d66-bea5-dbaa610141c7_beauty.png",
+      "PackagePath": "staticwebassets\\images\\7ada676b-3d91-4d66-bea5-dbaa610141c7_beauty.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\7b1f5e48-33e5-4b60-ae70-fe87948e3936_bath.png",
+      "PackagePath": "staticwebassets\\images\\7b1f5e48-33e5-4b60-ae70-fe87948e3936_bath.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\7b5fc671-0029-45d4-accf-f583798ce7c5_BVB.png",
+      "PackagePath": "staticwebassets\\images\\7b5fc671-0029-45d4-accf-f583798ce7c5_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\7ee15a96-5adf-44f3-8ee8-6d23b897486f_diapers.png",
+      "PackagePath": "staticwebassets\\images\\7ee15a96-5adf-44f3-8ee8-6d23b897486f_diapers.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\8736a804-14e9-4425-a93c-b5c4ec8a95a7_camera.png",
+      "PackagePath": "staticwebassets\\images\\8736a804-14e9-4425-a93c-b5c4ec8a95a7_camera.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\87613857-5a84-43e2-8767-6cfa72b80dc6_beauty.png",
+      "PackagePath": "staticwebassets\\images\\87613857-5a84-43e2-8767-6cfa72b80dc6_beauty.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\89b6419a-8b83-44a9-a7d3-5fe2693d6c97_p5.jpg",
+      "PackagePath": "staticwebassets\\images\\89b6419a-8b83-44a9-a7d3-5fe2693d6c97_p5.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\8a71df66-99a6-4bf9-9d63-8b54563b6100_labtops.png",
+      "PackagePath": "staticwebassets\\images\\8a71df66-99a6-4bf9-9d63-8b54563b6100_labtops.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\8ac32b9b-3d92-4a20-b768-d8c2a2ecf1c0_healthcare.png",
+      "PackagePath": "staticwebassets\\images\\8ac32b9b-3d92-4a20-b768-d8c2a2ecf1c0_healthcare.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\8c3b811a-e54f-4bed-9044-6c2352b363ee_videogames.png",
+      "PackagePath": "staticwebassets\\images\\8c3b811a-e54f-4bed-9044-6c2352b363ee_videogames.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\8db23c55-399b-46e9-8b27-951c4319fc89_headset.png",
+      "PackagePath": "staticwebassets\\images\\8db23c55-399b-46e9-8b27-951c4319fc89_headset.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\8e1275f6-5923-4acb-b3df-cb51d685bf17_toyes.png",
+      "PackagePath": "staticwebassets\\images\\8e1275f6-5923-4acb-b3df-cb51d685bf17_toyes.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\9079bf58-feff-48de-9ab5-18e746eae9ca_p4.jpg",
+      "PackagePath": "staticwebassets\\images\\9079bf58-feff-48de-9ab5-18e746eae9ca_p4.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\94858b32-e28d-4cd7-a4e9-c50dcd687dbf_BVB.png",
+      "PackagePath": "staticwebassets\\images\\94858b32-e28d-4cd7-a4e9-c50dcd687dbf_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\94ff4cf5-d24f-4f85-9b9c-439089c9978c_baby.png",
+      "PackagePath": "staticwebassets\\images\\94ff4cf5-d24f-4f85-9b9c-439089c9978c_baby.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\9676d7d8-522d-4d35-a662-8427feef165b_FCB.png",
+      "PackagePath": "staticwebassets\\images\\9676d7d8-522d-4d35-a662-8427feef165b_FCB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\9f2c851d-5cde-451b-a276-b10a18fe7033_Prod1.jpg",
+      "PackagePath": "staticwebassets\\images\\9f2c851d-5cde-451b-a276-b10a18fe7033_Prod1.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\a0b11661-b782-424f-8546-4ee64759ca95_home.png",
+      "PackagePath": "staticwebassets\\images\\a0b11661-b782-424f-8546-4ee64759ca95_home.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\a0e7ff56-9e7f-4c47-88d7-509e88677960_Prod7.jpg",
+      "PackagePath": "staticwebassets\\images\\a0e7ff56-9e7f-4c47-88d7-509e88677960_Prod7.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\a121f5ae-9c81-4253-a366-a997f9c19e1c_furniture.png",
+      "PackagePath": "staticwebassets\\images\\a121f5ae-9c81-4253-a366-a997f9c19e1c_furniture.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\a1eccfa1-315e-4821-a908-dd08a30b6249_appliances.png",
+      "PackagePath": "staticwebassets\\images\\a1eccfa1-315e-4821-a908-dd08a30b6249_appliances.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\a777fdee-0e78-49ad-b924-fead55847701_automative.png",
+      "PackagePath": "staticwebassets\\images\\a777fdee-0e78-49ad-b924-fead55847701_automative.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\a8d9750b-8ddb-442e-a644-4fc03b67174d_6f6ab52b-50fd-4226-8d47-3687dd37396b_supermarket.png",
+      "PackagePath": "staticwebassets\\images\\a8d9750b-8ddb-442e-a644-4fc03b67174d_6f6ab52b-50fd-4226-8d47-3687dd37396b_supermarket.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\a9a0ddf8-ec02-4a0b-b275-3aee0c62725b_BVB.png",
+      "PackagePath": "staticwebassets\\images\\a9a0ddf8-ec02-4a0b-b275-3aee0c62725b_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\ac1ba391-2c08-4914-ac83-2dba7d1c477b_footwear.png",
+      "PackagePath": "staticwebassets\\images\\ac1ba391-2c08-4914-ac83-2dba7d1c477b_footwear.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\b35abbb1-60bf-49d9-9ad1-43fde2e4a3ea_health.png",
+      "PackagePath": "staticwebassets\\images\\b35abbb1-60bf-49d9-9ad1-43fde2e4a3ea_health.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\b40ee846-f2cf-476d-8e72-d0f4e4fe353f_clothes.jpg",
+      "PackagePath": "staticwebassets\\images\\b40ee846-f2cf-476d-8e72-d0f4e4fe353f_clothes.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\b6062f0e-8e53-4c24-bf8e-6e5990c136a4_Prod10.jpg",
+      "PackagePath": "staticwebassets\\images\\b6062f0e-8e53-4c24-bf8e-6e5990c136a4_Prod10.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\b6d41d03-9e18-4e26-9a34-f11b012e89dd_p1.jpg",
+      "PackagePath": "staticwebassets\\images\\b6d41d03-9e18-4e26-9a34-f11b012e89dd_p1.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\b7cf2e14-2a71-4419-8eb6-1d17a6de39b6_Prod8.jpg",
+      "PackagePath": "staticwebassets\\images\\b7cf2e14-2a71-4419-8eb6-1d17a6de39b6_Prod8.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\b8826090-9a9b-4777-a780-d41eb8204cc4_wearables.png",
+      "PackagePath": "staticwebassets\\images\\b8826090-9a9b-4777-a780-d41eb8204cc4_wearables.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\b9e42127-99ec-469e-ae28-2c68e181d4b5_clothes2.jpg",
+      "PackagePath": "staticwebassets\\images\\b9e42127-99ec-469e-ae28-2c68e181d4b5_clothes2.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\bac13e84-1fa8-4888-b8e6-0b6728782ebd_footwear.png",
+      "PackagePath": "staticwebassets\\images\\bac13e84-1fa8-4888-b8e6-0b6728782ebd_footwear.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\bbb41c80-3156-4433-b12f-062203f1e03c_BVB.png",
+      "PackagePath": "staticwebassets\\images\\bbb41c80-3156-4433-b12f-062203f1e03c_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\bc1e8cfd-ee75-4ceb-9365-2c85927098fd_BVB.png",
+      "PackagePath": "staticwebassets\\images\\bc1e8cfd-ee75-4ceb-9365-2c85927098fd_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\bdfa1b9a-230e-4072-8cd7-f473b32015ad_clothesagain.png",
+      "PackagePath": "staticwebassets\\images\\bdfa1b9a-230e-4072-8cd7-f473b32015ad_clothesagain.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\c427da84-f13f-444c-8c91-2ba962ac5ff2_fragrances.png",
+      "PackagePath": "staticwebassets\\images\\c427da84-f13f-444c-8c91-2ba962ac5ff2_fragrances.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\c6b252ec-0197-46d2-8c01-a7a0f0932a80_Prod4.jpg",
+      "PackagePath": "staticwebassets\\images\\c6b252ec-0197-46d2-8c01-a7a0f0932a80_Prod4.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\d4484eca-fa1d-46ce-a47d-f519094bbf9c_Mobiles.png",
+      "PackagePath": "staticwebassets\\images\\d4484eca-fa1d-46ce-a47d-f519094bbf9c_Mobiles.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\d47d437c-3918-4a8f-bbaa-b93619b2aaba_Prod9.jpg",
+      "PackagePath": "staticwebassets\\images\\d47d437c-3918-4a8f-bbaa-b93619b2aaba_Prod9.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\d5c77527-e219-413c-aa6b-6154a69cd85e_labtops.png",
+      "PackagePath": "staticwebassets\\images\\d5c77527-e219-413c-aa6b-6154a69cd85e_labtops.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\d6585333-3aec-4670-8871-e51f06c6d4f6_BVB.png",
+      "PackagePath": "staticwebassets\\images\\d6585333-3aec-4670-8871-e51f06c6d4f6_BVB.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\db8a8ec9-5042-41fb-abf8-b9b0fa1a0f23_electronics2.png",
+      "PackagePath": "staticwebassets\\images\\db8a8ec9-5042-41fb-abf8-b9b0fa1a0f23_electronics2.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\dd5f3e1f-7d85-4136-b83a-a057c00aa06f_p1.jpg",
+      "PackagePath": "staticwebassets\\images\\dd5f3e1f-7d85-4136-b83a-a057c00aa06f_p1.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\df137601-0dd1-4ed5-8f63-7724c080a667_home.png",
+      "PackagePath": "staticwebassets\\images\\df137601-0dd1-4ed5-8f63-7724c080a667_home.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\e13def9d-3cbc-4958-9f50-a27ae780c595_Television.png",
+      "PackagePath": "staticwebassets\\images\\e13def9d-3cbc-4958-9f50-a27ae780c595_Television.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\e276ebc1-af26-4145-afb6-9d3748c814c1_electronics.jpg",
+      "PackagePath": "staticwebassets\\images\\e276ebc1-af26-4145-afb6-9d3748c814c1_electronics.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\e3f15402-4a3b-4b8e-acaa-2f0fb2fe3f26_Prod2.jpg",
+      "PackagePath": "staticwebassets\\images\\e3f15402-4a3b-4b8e-acaa-2f0fb2fe3f26_Prod2.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\e6259973-09b2-4338-ac9b-c3d04d69678e_2b8c3aea-b5e6-46c8-af5e-746ab1fd7c2e_skincare.png",
+      "PackagePath": "staticwebassets\\images\\e6259973-09b2-4338-ac9b-c3d04d69678e_2b8c3aea-b5e6-46c8-af5e-746ab1fd7c2e_skincare.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\e83412c3-4dc8-4203-baf6-0891b7da3598_summer.png",
+      "PackagePath": "staticwebassets\\images\\e83412c3-4dc8-4203-baf6-0891b7da3598_summer.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\e979c6fa-e8ac-45c6-ac0c-0b910f9cce5a_Prod6.jpg",
+      "PackagePath": "staticwebassets\\images\\e979c6fa-e8ac-45c6-ac0c-0b910f9cce5a_Prod6.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\f0f1ae3a-cfe7-499d-919b-c871983d69a1_headset.png",
+      "PackagePath": "staticwebassets\\images\\f0f1ae3a-cfe7-499d-919b-c871983d69a1_headset.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\f1794d06-36e2-4b16-bd62-29e4f1caf277_books.png",
+      "PackagePath": "staticwebassets\\images\\f1794d06-36e2-4b16-bd62-29e4f1caf277_books.png"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\feb621b4-b826-4803-9191-60f26d84f41d_Prod5.jpg",
+      "PackagePath": "staticwebassets\\images\\feb621b4-b826-4803-9191-60f26d84f41d_Prod5.jpg"
+    },
+    {
+      "Id": "E:\\EcommerceAspwebapi\\EcommerceAspwebapi\\wwwroot\\images\\ff2163d2-b821-4c99-83b9-11a1ef00a29b_books.png",
+      "PackagePath": "staticwebassets\\images\\ff2163d2-b821-4c99-83b9-11a1ef00a29b_books.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EcommerceAspwebapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EcommerceAspwebapi.props",
+      "PackagePath": "build\\EcommerceAspwebapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceAspwebapi.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceAspwebapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EcommerceAspwebapi.props",
+      "PackagePath": "buildTransitive\\EcommerceAspwebapi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

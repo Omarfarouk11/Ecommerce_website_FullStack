@@ -1,0 +1,61 @@
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: #5492c5;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+.logo a{
+    color: white;
+    text-decoration: none;
+}
+.Search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 5px;
+}
+.Search input {
+    margin-left: 15px;
+    outline: none;
+    border-radius: 4px;
+    width: 800px;
+    height: 35px;
+    border: none;
+    padding: 5px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.searchicon{
+    cursor: pointer;
+    color: black;
+}
+.listitem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 13px;
+
+
+}
+.listitem li {
+    margin-left: 20px;
+    list-style: none;
+
+}
+.listitem li a .carticon{
+    margin-left: 5px;
+    font-size: 20px;
+}
+.listitem li a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+}
+.logo{
+    font-size: 22px;
+}
